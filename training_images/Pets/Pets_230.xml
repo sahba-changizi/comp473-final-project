@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pets</folder>
+	<filename>Pets_230.jpeg</filename>
+	<path>/Users/sahba/Projects/comp473-final-project/training_images/Pets/Pets_230.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>830</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>409</xmin>
+			<ymin>112</ymin>
+			<xmax>731</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

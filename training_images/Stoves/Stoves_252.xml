@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stoves</folder>
+	<filename>Stoves_252.jpeg</filename>
+	<path>/Users/sahba/Projects/comp473-final-project/training_images/Stoves/Stoves_252.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stove</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>566</xmin>
+			<ymin>174</ymin>
+			<xmax>1568</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+	</object>
+</annotation>
