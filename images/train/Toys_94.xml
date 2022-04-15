@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Toys</folder>
+	<filename>Toys_94.jpeg</filename>
+	<path>/Users/sahba/Projects/comp473-final-project/training_images/Toys/Toys_94.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>775</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>toy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>23</ymin>
+			<xmax>946</xmax>
+			<ymax>748</ymax>
+		</bndbox>
+	</object>
+</annotation>

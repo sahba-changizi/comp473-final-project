@@ -1,0 +1,12 @@
+item {
+  name: "pet"
+  id: 1
+}
+item {
+  name: "stove"
+  id: 2
+}
+item {
+  name: "toy"
+  id: 3
+}
